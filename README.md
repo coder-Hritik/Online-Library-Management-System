@@ -3,7 +3,16 @@
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](login.png)
+![Login Page](library-login.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](library-dashboard.png)
+
+### Issue Book
+![Issue Book](library-issue-book.png)
+
+### Manage Book
+![Manage Book](library-manage-book.png)
+
+### Add Book
+![Add Book](library-add-book.png)
